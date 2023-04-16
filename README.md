@@ -6,4 +6,4 @@
 - 🌱 *I’m learning everyday by doing*
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with *Open source collabration*
-- ⚡ Fun fact: **I'm bad at CSS**
+- ⚡ Fun fact: **I'm decent at CSS**

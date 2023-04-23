@@ -3,7 +3,7 @@
 
 🔭 I work on **Frontend Technologies**
 - Technologies I use everyday : *HTML CSS JS React*
-- 🌱 *I’m learning everyday by doing*
+- 🌱 *I’m learning new things everyday by practising*
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with *Open source collabration*
 - ⚡ Fun fact: **I'm decent at CSS**

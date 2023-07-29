@@ -1,7 +1,7 @@
 ### Hi everyone, I'm Sushant Menon 👋
 
 
-🔭 I work on **Frontend Technologies**
+🔭 I work on **Frontend Technologies** and sometimes **Backend** also.
 - Technologies I use everyday : *HTML CSS JS React*
 - 🌱 *I’m learning new things everyday by practising*
 - 👯 I’m looking to collaborate on **Open Source Projects**

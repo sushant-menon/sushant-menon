@@ -2,7 +2,7 @@
 
 
 🔭 I work on **Frontend Technologies** and sometimes **Backend** also.
-- Technologies I use everyday : *HTML CSS JS React*
+- Technologies I use everyday : *HTML CSS JS React Next.Js *
 - 🌱 *I’m learning new things everyday by practising*
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 🤔 I’m looking for help with *Open source collabration*
